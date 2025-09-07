@@ -1,0 +1,7 @@
+2025-09-06 22:03:34,163 - WARNING - Could not add CORS to route /{path}: <DynamicResource  /{path}> already has a '*' handler for all methods
+2025-09-06 22:03:34,166 - INFO - Season 7 Battle Pass configuration loaded
+2025-09-06 22:03:34,166 - INFO - Fortnite Backend initialized
+2025-09-06 22:03:34,168 - INFO - Certificate chain created: end-entity + Epic Root CA -> server.crt
+2025-09-06 22:03:34,177 - INFO - SSL certificate chain loaded (end-entity + Epic Root CA)
+2025-09-06 22:03:34,178 - INFO - Backend server started on https://localhost:443
+2025-09-06 22:03:34,179 - INFO - HTTP redirect server started on http://localhost:80
